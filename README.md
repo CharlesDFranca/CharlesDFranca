@@ -60,19 +60,15 @@ Tenho grande interesse em engenharia de software de verdade: regras de negócio 
 
 ## 📊 Estatísticas do GitHub
 
-
 <p align="center">
-  <img height="180"
-    alt="Estatísticas do GitHub"
+  <img width="380"
     src="https://github-readme-stats-fast.vercel.app/api?username=CharlesDFranca&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img height="180"
-    alt="Sequência de contribuições"
+  <img width="420"
     src="https://streak-stats.demolab.com?user=CharlesDFranca&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="160"
-    alt="Linguagens mais usadas"
+  <img
     src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=CharlesDFranca&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br" />
 </p>
 
