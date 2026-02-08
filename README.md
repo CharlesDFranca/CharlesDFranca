@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o José Charles
 
 🚀 **Desenvolvedor Backend | NodeJS & NestJS**  
-🎓 **Estudante de Engenharia de Software – UFC** 
+🎓 **Estudante de Engenharia de Software – UFC**
 
 Sou apaixonado por construir sistemas **backend bem projetados**, com atenção especial a **arquitetura limpa**, **modelagem de domínio** e **qualidade de código**.
 
@@ -14,13 +14,10 @@ Tenho grande interesse em engenharia de software de verdade: regras de negócio 
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/herbertcarnaubadesouza">
-    <img src="https://img.shields.io/badge/GitHub-CHARLESDFRANCA-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/CharlesDFranca">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://instagram.com/oreidosites">
-    <img src="https://img.shields.io/badge/Instagram-@CHARLES_D_OFC-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="www.linkedin.com/in/charlesdfranca">
+  <a href="http://www.linkedin.com/in/charlesdfranca">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -30,10 +27,15 @@ Tenho grande interesse em engenharia de software de verdade: regras de negócio 
 ## 🧠 No que eu estou focado
 
 - 🏗️ Arquitetura backend e organização de código
+
 - 🧩 Clean Code, SOLID e conceitos inspirados em DDD
+
 - 🧪 Escrita de código testável e de fácil manutenção
+
 - 🔐 Autenticação, autorização e regras de negócio
-- ⚡ Boas práticas para APIs e sistemas escaláveis
+
+- ⚡ Boas práticas para APIs bem estruturadas
+
 - 📚 Aprendizado contínuo e evolução técnica
 
 ---
@@ -42,26 +44,36 @@ Tenho grande interesse em engenharia de software de verdade: regras de negócio 
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=black)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### DevOps & Tools
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CharlesDFranca&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesDFranca&layout=compact&theme=tokyonight" />
+
+<p align="center">
+  <img height="180"
+    alt="Estatísticas do GitHub"
+    src="https://github-readme-stats-fast.vercel.app/api?username=CharlesDFranca&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img height="180"
+    alt="Sequência de contribuições"
+    src="https://streak-stats.demolab.com?user=CharlesDFranca&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="160"
+    alt="Linguagens mais usadas"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=CharlesDFranca&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br" />
 </p>
 
 ---
